@@ -3,9 +3,10 @@
 
 ## SETUP & INSTALL DEPENDENCIES
 ```
+gitclone https://github.com/deepface19/Alpha-Finance.git
 npm install
 ```
-### RUN Localhost & RUN Productions Build
+## RUN Localhost & RUN Productions Build
 
 ```
 npm start 
