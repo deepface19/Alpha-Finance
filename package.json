@@ -13,7 +13,6 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "@types/delowar__react-circle-progressbar": "^1.0.0",
     "@types/jest": "^26.0.15",
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
@@ -31,7 +30,6 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.5",
-    "swiper": "^8.3.1",
     "tronweb": "^4.2.0",
     "typescript": "^4.1.2",
     "zustand": "^4.0.0-rc.2"
@@ -72,6 +70,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/deepface19/Alpha-Finance/issues"
-  },
-  "homepage": "https://github.com/deepface19/Alpha-Finance#readme"
+  }
 }
