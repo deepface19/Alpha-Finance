@@ -1,5 +1,5 @@
 # Alpha Finance
-
+Alpha Finance is a Decentalized Finance Protocol and Service with the Secure and Transparency.
 
 ## SETUP & INSTALL DEPENDENCIES
 ```
