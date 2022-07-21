@@ -1,3 +1,5 @@
+# [Beta Site](https://alphafinance.web.app)
+
 # Alpha Finance
 ### Alpha Finance is a Decentalized Finance Protocol and Service with the Secure and Transparency.
 ### our protocols and services are : 
@@ -20,8 +22,6 @@
 ## Crypto World
 ##### find around you places that accept crypto transactions 
 
-## Beta Site 
-- https://alphafinance.web.app
 ## SETUP & INSTALL DEPENDENCIES
 ```
 gitclone https://github.com/deepface19/Alpha-Finance.git
@@ -43,4 +43,4 @@ tronbox compile
 tronbox migrate --reset --network shasta 
 tronbox migrate --reset --network mainnet 
 ```
-## [This is a Devpost Hackathon tron project](https://tron.devpost.com/?ref_feature=challenge&ref_medium=discover)
+## [This repositories is a project to hackathon tron di devpost](https://tron.devpost.com/?ref_feature=challenge&ref_medium=discover)
