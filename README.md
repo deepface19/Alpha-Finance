@@ -43,4 +43,4 @@ tronbox compile
 tronbox migrate --reset --network shasta 
 tronbox migrate --reset --network mainnet 
 ```
-## This is a Devpost Hackathon tron project [https://tron.devpost.com/?ref_feature=challenge&ref_medium=discover]
+## This is a Devpost Hackathon tron project [!(https://tron.devpost.com/?ref_feature=challenge&ref_medium=discover)]
