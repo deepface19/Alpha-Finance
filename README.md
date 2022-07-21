@@ -12,7 +12,7 @@
 ##### buy trx or other crypto easily with credit cards or other payments with best rate advice from fiat gateway providers
 
 ## Protect Transactions
-##### - Non-custodial private transactions on tron
+##### Non-custodial private transactions on tron
 
 ## Protect Wallet 
 ##### using multi-signature method to protect wallets  
